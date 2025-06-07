@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Inventory Management System
 This program demonstrates a simple inventory management system using dictionaries and tuples.
